@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcial2(HN17-I04-001)</string>
+    <string name="titulo">Titanes de El Salvador</string>
+    <string name="juego">Juego</string>
+    <string name="puntajeAlto">Puntaje Alto</string>
+    <string name="confi">Configuraciones</string>
+</resources>
